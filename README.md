@@ -1,4 +1,8 @@
-### Hi there 👋
+Olá, eu sou Eder Rossi, apaixonado por tecnologia e desenvolvedor, programador!
+
+
+
+
 
 <!--
 **EderRossi/EderRossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
